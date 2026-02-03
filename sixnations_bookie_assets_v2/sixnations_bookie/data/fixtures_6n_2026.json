@@ -1,0 +1,139 @@
+{
+  "competition": "Six Nations",
+  "season": 2026,
+  "timezone": "Europe/London",
+  "teams": [
+    "ENG",
+    "FRA",
+    "IRE",
+    "ITA",
+    "SCO",
+    "WAL"
+  ],
+  "fixtures": [
+    {
+      "round": 1,
+      "date": "2026-02-05",
+      "kickoff_gmt": "20:10",
+      "home": "FRA",
+      "away": "IRE",
+      "venue": "Stade de France, Paris"
+    },
+    {
+      "round": 1,
+      "date": "2026-02-07",
+      "kickoff_gmt": "14:10",
+      "home": "ITA",
+      "away": "SCO",
+      "venue": "Stadio Olimpico, Rome"
+    },
+    {
+      "round": 1,
+      "date": "2026-02-07",
+      "kickoff_gmt": "16:40",
+      "home": "ENG",
+      "away": "WAL",
+      "venue": "Allianz Stadium, Twickenham"
+    },
+    {
+      "round": 2,
+      "date": "2026-02-14",
+      "kickoff_gmt": "14:10",
+      "home": "IRE",
+      "away": "ITA",
+      "venue": "Aviva Stadium, Dublin"
+    },
+    {
+      "round": 2,
+      "date": "2026-02-14",
+      "kickoff_gmt": "16:40",
+      "home": "SCO",
+      "away": "ENG",
+      "venue": "Scottish Gas Murrayfield Stadium, Edinburgh"
+    },
+    {
+      "round": 2,
+      "date": "2026-02-15",
+      "kickoff_gmt": "15:10",
+      "home": "WAL",
+      "away": "FRA",
+      "venue": "Principality Stadium, Cardiff"
+    },
+    {
+      "round": 3,
+      "date": "2026-02-21",
+      "kickoff_gmt": "14:10",
+      "home": "ENG",
+      "away": "IRE",
+      "venue": "Allianz Stadium, Twickenham"
+    },
+    {
+      "round": 3,
+      "date": "2026-02-21",
+      "kickoff_gmt": "16:40",
+      "home": "WAL",
+      "away": "SCO",
+      "venue": "Principality Stadium, Cardiff"
+    },
+    {
+      "round": 3,
+      "date": "2026-02-22",
+      "kickoff_gmt": "15:10",
+      "home": "FRA",
+      "away": "ITA",
+      "venue": "Decathlon Arena, Lille"
+    },
+    {
+      "round": 4,
+      "date": "2026-03-06",
+      "kickoff_gmt": "20:10",
+      "home": "IRE",
+      "away": "WAL",
+      "venue": "Aviva Stadium, Dublin"
+    },
+    {
+      "round": 4,
+      "date": "2026-03-07",
+      "kickoff_gmt": "14:10",
+      "home": "SCO",
+      "away": "FRA",
+      "venue": "Scottish Gas Murrayfield Stadium, Edinburgh"
+    },
+    {
+      "round": 4,
+      "date": "2026-03-07",
+      "kickoff_gmt": "16:40",
+      "home": "ITA",
+      "away": "ENG",
+      "venue": "Stadio Olimpico, Rome"
+    },
+    {
+      "round": 5,
+      "date": "2026-03-14",
+      "kickoff_gmt": "14:10",
+      "home": "IRE",
+      "away": "SCO",
+      "venue": "Aviva Stadium, Dublin"
+    },
+    {
+      "round": 5,
+      "date": "2026-03-14",
+      "kickoff_gmt": "16:40",
+      "home": "WAL",
+      "away": "ITA",
+      "venue": "Principality Stadium, Cardiff"
+    },
+    {
+      "round": 5,
+      "date": "2026-03-14",
+      "kickoff_gmt": "20:10",
+      "home": "FRA",
+      "away": "ENG",
+      "venue": "Stade de France, Paris"
+    }
+  ],
+  "notes": [
+    "Kick-off times are GMT as published by six-nations-guide.co.uk (unofficial).",
+    "Please sanity-check against the official Six Nations fixture list before shipping."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "FRA": {
+    "min": 18,
+    "likely": 20,
+    "max": 22
+  },
+  "ENG": {
+    "min": 16,
+    "likely": 18,
+    "max": 21
+  },
+  "IRE": {
+    "min": 14,
+    "likely": 16,
+    "max": 20
+  },
+  "SCO": {
+    "min": 8,
+    "likely": 10,
+    "max": 14
+  },
+  "ITA": {
+    "min": 4,
+    "likely": 6,
+    "max": 9
+  },
+  "WAL": {
+    "min": 2,
+    "likely": 5,
+    "max": 7
+  }
+}
