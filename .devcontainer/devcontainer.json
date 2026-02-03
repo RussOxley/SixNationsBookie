@@ -1,0 +1,25 @@
+{
+  "name": "Six Nations Bookie",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install -r sixnations_bookie_assets_v2/requirements.txt && pip install -r sixnations_bookie_assets_v2/requirements-dev.txt",
+  "postStartCommand": "echo '\n===========================================\n  Six Nations Bookie - Ready to Run!\n===========================================\n\nQuick start:\n  ./run-demo.sh        # Run the demo\n  ./run-api.sh         # Start the web API\n\nOr manually:\n  cd sixnations_bookie_assets_v2\n  python demo_sixnations_points_market.py\n===========================================\n'",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.terminal.activateEnvironment": true
+      }
+    }
+  },
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": {
+      "label": "Six Nations Bookie API",
+      "onAutoForward": "notify"
+    }
+  }
+}

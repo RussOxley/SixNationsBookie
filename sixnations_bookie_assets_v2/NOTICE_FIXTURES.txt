@@ -1,0 +1,6 @@
+FIXTURES NOTICE
+
+The fixture list in sixnations_bookie/data/fixtures_6n_2026.json was taken
+from the Six-Nations-Guide.co.uk 2026 fixtures page, which states it is unofficial.
+
+Please validate fixtures and venues against the official Six Nations fixture list before shipping.
